@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/adamchainz/django-htmx/commit/6cde91e398cdcbe26595b9265430c01a1de54ea8",
       "git:hexsha": "6cde91e398cdcbe26595b9265430c01a1de54ea8",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/adamchainz/django-htmx/commit/1222a9f0f713a7015b985e9e9ddabee0105e77b5",
